@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\girrafe\girrafe\bin\Debug\net8.0\girrafe.exe
+C:\Users\User\Desktop\C#\girrafe\girrafe\bin\Debug\net8.0\girrafe.deps.json
+C:\Users\User\Desktop\C#\girrafe\girrafe\bin\Debug\net8.0\girrafe.runtimeconfig.json
+C:\Users\User\Desktop\C#\girrafe\girrafe\bin\Debug\net8.0\girrafe.dll
+C:\Users\User\Desktop\C#\girrafe\girrafe\bin\Debug\net8.0\girrafe.pdb
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.dll
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\refint\girrafe.dll
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.pdb
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\girrafe.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\girrafe\girrafe\obj\Debug\net8.0\ref\girrafe.dll
